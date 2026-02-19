@@ -1,0 +1,14 @@
+
+
+
+header{
+    background: radial-gradient(ellipse at center, 
+        oklch(28.929% 0.0954 142.624) 0%, 
+        oklch(19.551% 0.0597 140.136) 70%);
+    
+}
+#last-section{
+    background: radial-gradient(ellipse at center, 
+        oklch(28.929% 0.0954 142.624) 0%, 
+        oklch(19.551% 0.0597 140.136) 70%);
+}
